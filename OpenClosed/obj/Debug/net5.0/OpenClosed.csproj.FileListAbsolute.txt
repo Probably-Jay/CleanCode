@@ -1,0 +1,16 @@
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\OpenClosed\bin\Debug\net5.0\OpenClosed.exe
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\OpenClosed\bin\Debug\net5.0\OpenClosed.deps.json
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\OpenClosed\bin\Debug\net5.0\OpenClosed.runtimeconfig.json
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\OpenClosed\bin\Debug\net5.0\OpenClosed.runtimeconfig.dev.json
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\OpenClosed\bin\Debug\net5.0\OpenClosed.dll
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\OpenClosed\bin\Debug\net5.0\ref\OpenClosed.dll
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\OpenClosed\bin\Debug\net5.0\OpenClosed.pdb
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\OpenClosed\obj\Debug\net5.0\OpenClosed.csproj.AssemblyReference.cache
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\OpenClosed\obj\Debug\net5.0\OpenClosed.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\OpenClosed\obj\Debug\net5.0\OpenClosed.AssemblyInfoInputs.cache
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\OpenClosed\obj\Debug\net5.0\OpenClosed.AssemblyInfo.cs
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\OpenClosed\obj\Debug\net5.0\OpenClosed.csproj.CoreCompileInputs.cache
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\OpenClosed\obj\Debug\net5.0\OpenClosed.dll
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\OpenClosed\obj\Debug\net5.0\ref\OpenClosed.dll
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\OpenClosed\obj\Debug\net5.0\OpenClosed.pdb
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\OpenClosed\obj\Debug\net5.0\OpenClosed.genruntimeconfig.cache

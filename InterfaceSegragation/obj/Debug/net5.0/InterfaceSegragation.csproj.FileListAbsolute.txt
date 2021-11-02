@@ -1,0 +1,16 @@
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\InterfaceSegragation\bin\Debug\net5.0\InterfaceSegragation.exe
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\InterfaceSegragation\bin\Debug\net5.0\InterfaceSegragation.deps.json
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\InterfaceSegragation\bin\Debug\net5.0\InterfaceSegragation.runtimeconfig.json
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\InterfaceSegragation\bin\Debug\net5.0\InterfaceSegragation.runtimeconfig.dev.json
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\InterfaceSegragation\bin\Debug\net5.0\InterfaceSegragation.dll
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\InterfaceSegragation\bin\Debug\net5.0\ref\InterfaceSegragation.dll
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\InterfaceSegragation\bin\Debug\net5.0\InterfaceSegragation.pdb
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\InterfaceSegragation\obj\Debug\net5.0\InterfaceSegragation.csproj.AssemblyReference.cache
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\InterfaceSegragation\obj\Debug\net5.0\InterfaceSegragation.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\InterfaceSegragation\obj\Debug\net5.0\InterfaceSegragation.AssemblyInfoInputs.cache
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\InterfaceSegragation\obj\Debug\net5.0\InterfaceSegragation.AssemblyInfo.cs
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\InterfaceSegragation\obj\Debug\net5.0\InterfaceSegragation.csproj.CoreCompileInputs.cache
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\InterfaceSegragation\obj\Debug\net5.0\InterfaceSegragation.dll
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\InterfaceSegragation\obj\Debug\net5.0\ref\InterfaceSegragation.dll
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\InterfaceSegragation\obj\Debug\net5.0\InterfaceSegragation.pdb
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\InterfaceSegragation\obj\Debug\net5.0\InterfaceSegragation.genruntimeconfig.cache

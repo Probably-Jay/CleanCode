@@ -1,0 +1,16 @@
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Calisthenics6\bin\Debug\net5.0\Calisthenics6.exe
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Calisthenics6\bin\Debug\net5.0\Calisthenics6.deps.json
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Calisthenics6\bin\Debug\net5.0\Calisthenics6.runtimeconfig.json
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Calisthenics6\bin\Debug\net5.0\Calisthenics6.runtimeconfig.dev.json
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Calisthenics6\bin\Debug\net5.0\Calisthenics6.dll
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Calisthenics6\bin\Debug\net5.0\ref\Calisthenics6.dll
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Calisthenics6\bin\Debug\net5.0\Calisthenics6.pdb
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Calisthenics6\obj\Debug\net5.0\Calisthenics6.csproj.AssemblyReference.cache
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Calisthenics6\obj\Debug\net5.0\Calisthenics6.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Calisthenics6\obj\Debug\net5.0\Calisthenics6.AssemblyInfoInputs.cache
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Calisthenics6\obj\Debug\net5.0\Calisthenics6.AssemblyInfo.cs
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Calisthenics6\obj\Debug\net5.0\Calisthenics6.csproj.CoreCompileInputs.cache
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Calisthenics6\obj\Debug\net5.0\Calisthenics6.dll
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Calisthenics6\obj\Debug\net5.0\ref\Calisthenics6.dll
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Calisthenics6\obj\Debug\net5.0\Calisthenics6.pdb
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Calisthenics6\obj\Debug\net5.0\Calisthenics6.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Naming\bin\Debug\net5.0\Naming.exe
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Naming\bin\Debug\net5.0\Naming.deps.json
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Naming\bin\Debug\net5.0\Naming.runtimeconfig.json
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Naming\bin\Debug\net5.0\Naming.runtimeconfig.dev.json
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Naming\bin\Debug\net5.0\Naming.dll
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Naming\bin\Debug\net5.0\ref\Naming.dll
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Naming\bin\Debug\net5.0\Naming.pdb
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Naming\obj\Debug\net5.0\Naming.csproj.AssemblyReference.cache
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Naming\obj\Debug\net5.0\Naming.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Naming\obj\Debug\net5.0\Naming.AssemblyInfoInputs.cache
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Naming\obj\Debug\net5.0\Naming.AssemblyInfo.cs
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Naming\obj\Debug\net5.0\Naming.csproj.CoreCompileInputs.cache
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Naming\obj\Debug\net5.0\Naming.dll
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Naming\obj\Debug\net5.0\ref\Naming.dll
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Naming\obj\Debug\net5.0\Naming.pdb
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\Naming\obj\Debug\net5.0\Naming.genruntimeconfig.cache

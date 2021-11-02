@@ -1,0 +1,16 @@
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionSolution\bin\Debug\net5.0\DependancyInversionSolution.exe
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionSolution\bin\Debug\net5.0\DependancyInversionSolution.deps.json
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionSolution\bin\Debug\net5.0\DependancyInversionSolution.runtimeconfig.json
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionSolution\bin\Debug\net5.0\DependancyInversionSolution.runtimeconfig.dev.json
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionSolution\bin\Debug\net5.0\DependancyInversionSolution.dll
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionSolution\bin\Debug\net5.0\ref\DependancyInversionSolution.dll
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionSolution\bin\Debug\net5.0\DependancyInversionSolution.pdb
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionSolution\obj\Debug\net5.0\DependancyInversionSolution.csproj.AssemblyReference.cache
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionSolution\obj\Debug\net5.0\DependancyInversionSolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionSolution\obj\Debug\net5.0\DependancyInversionSolution.AssemblyInfoInputs.cache
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionSolution\obj\Debug\net5.0\DependancyInversionSolution.AssemblyInfo.cs
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionSolution\obj\Debug\net5.0\DependancyInversionSolution.csproj.CoreCompileInputs.cache
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionSolution\obj\Debug\net5.0\DependancyInversionSolution.dll
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionSolution\obj\Debug\net5.0\ref\DependancyInversionSolution.dll
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionSolution\obj\Debug\net5.0\DependancyInversionSolution.pdb
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionSolution\obj\Debug\net5.0\DependancyInversionSolution.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionProblem\bin\Debug\net5.0\DependancyInversionProblem.exe
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionProblem\bin\Debug\net5.0\DependancyInversionProblem.deps.json
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionProblem\bin\Debug\net5.0\DependancyInversionProblem.runtimeconfig.json
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionProblem\bin\Debug\net5.0\DependancyInversionProblem.runtimeconfig.dev.json
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionProblem\bin\Debug\net5.0\DependancyInversionProblem.dll
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionProblem\bin\Debug\net5.0\ref\DependancyInversionProblem.dll
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionProblem\bin\Debug\net5.0\DependancyInversionProblem.pdb
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionProblem\obj\Debug\net5.0\DependancyInversionProblem.csproj.AssemblyReference.cache
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionProblem\obj\Debug\net5.0\DependancyInversionProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionProblem\obj\Debug\net5.0\DependancyInversionProblem.AssemblyInfoInputs.cache
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionProblem\obj\Debug\net5.0\DependancyInversionProblem.AssemblyInfo.cs
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionProblem\obj\Debug\net5.0\DependancyInversionProblem.csproj.CoreCompileInputs.cache
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionProblem\obj\Debug\net5.0\DependancyInversionProblem.dll
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionProblem\obj\Debug\net5.0\ref\DependancyInversionProblem.dll
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionProblem\obj\Debug\net5.0\DependancyInversionProblem.pdb
+D:\MyDocuments\Documents\Work\LobVr\Clean Code Workshop\Examples\CleanCode\DependancyInversionProblem\obj\Debug\net5.0\DependancyInversionProblem.genruntimeconfig.cache
